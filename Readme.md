@@ -4,7 +4,7 @@ Welcome to **MathVault**, a comprehensive collection of notes, formulas, and res
 
 ## 🌟 What's Inside
 
-This repository contains well-structured notes and materials on various mathematical topics, including:
+This repository contains well-structured notes and materials on various mathematical topics.
 
 
 ## 🧠 Purpose
