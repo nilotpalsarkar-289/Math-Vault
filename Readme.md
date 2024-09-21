@@ -21,7 +21,6 @@ Inside each folder, you'll find:
 
 ## 📧 Contact
 
-- Author: Nilotpal Sarkar (IIIT Kalyani)
 - If you have any questions, suggestions, or feedback, reach out via [nilotpalsarkar289@gmail.com].
 
 ---
